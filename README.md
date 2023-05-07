@@ -2,7 +2,7 @@
 
 ![Screenshot of card Component](images/Screenshot%20(13).png)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://3-column-preview-card-component-ak.netlify.app/
 
 ## My process
 I used flexbox to align items.
